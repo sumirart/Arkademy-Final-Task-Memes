@@ -1,7 +1,7 @@
-# Scrape Bukalapak with BeautifulSoap4 auto save to DB
+# Scrape Detik.com with BeautifulSoap4 auto save to DB
 
-Scrape products in Bukalapak using BeautifulSoup4 , Requests, flask and save with mysqlclient
-bukapalak url = "https://m.bukalapak.com/c/handphone?from=category_home&page={}&search%5Bkeywords%5D="
+Scrape news in Detik.com using BeautifulSoup4 , Requests, and flask 
+url = "https://news.detik.com/"
 
 ## Installation Requierements
 
